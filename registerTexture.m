@@ -1,5 +1,5 @@
 function [warped_img1, warped_img2] = registerTexture(img1,img2, parameters)
-% given two images: img1 target, img2 reference
+% given two images img1 target  img2 reference
 % detect and match sift features, estimate homography transformation
 % and calculate alignment result
 

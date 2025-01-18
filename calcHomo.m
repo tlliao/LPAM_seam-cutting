@@ -13,7 +13,7 @@ data_norm = [ dat_norm_pts1 ; dat_norm_pts2 ];
 %fprintf('DLT (projective transform) on inliers\n');
 % Refine homography using DLT on inliers.
 %fprintf('> Refining homography (H) using DLT...');
-[ h,~,~,~ ] = homography_fit(data_norm);
+[ h,~,~,~ ] = feval('homography_fit',data_norm);
 H = T2\(reshape(h,3,3)*T1);
 
 end
