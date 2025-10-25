@@ -17,11 +17,13 @@ Download the code, add images in the folder "Imgs" in the main path, and run the
 ### Citation
 
 ```
-@inproceedings{liao2025leveraging,
-  title={Leveraging Local Patch Alignment to Seam Cutting for Large Parallax Image Stitching},
-  author={Liao, Tianli and Zhao, Chenyang and Li, Lei and Cao, Heling},
-  booktitle = {IEEE International Conference on Computer Vision (ICCV)},
-  year={2025}
+@InProceedings{Liao_2025_ICCV,
+    author    = {Liao, Tianli and Zhao, Chenyang and Li, Lei and Cao, Heling},
+    title     = {Leveraging Local Patch Alignment to Seam-cutting for Large Parallax Image Stitching},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2025},
+    pages     = {27262-27271}
 }
 ```
 
