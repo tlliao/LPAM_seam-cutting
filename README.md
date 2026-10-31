@@ -8,6 +8,10 @@
 
 ![Pipeline](pipeline.png)
 
+### News
+
+[2026-10-31] The python version is updated.
+
 ### Usage
 
 ---
